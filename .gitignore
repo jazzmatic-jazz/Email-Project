@@ -1,0 +1,3 @@
+em_env/
+mail_send/.env
+db.sqlite3
